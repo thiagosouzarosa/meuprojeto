@@ -6,3 +6,7 @@ html {
 body {
   background: red;
 }
+
+h1 {
+  margin: 10px;
+}
